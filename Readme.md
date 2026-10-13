@@ -5,4 +5,4 @@
     - without its extension into a Markdown file.
 
 # Usage:
-    ``` python pylister.py "C:\\path\\to\\folder" ```
+    ` python pylister.py "C:\\path\\to\\folder" `
